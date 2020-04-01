@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">quiz_application</string>
+    <string name="flase">flase</string>
+    <string name="True">True</string>
+    <string name="next">next</string>
+    <string name="question1">No cat likes water</string>
+    <string name="question2">Baby koalas are called joeys.</string>
+    <string name="question3">Freddy Kreuger is the villain in the “Friday the 13th” movies.</string>
+    <string name="question4">No bird can fly backwards.</string>
+    <string name="question5">The favorite food of the Teenage Mutant Ninja Turtles is pizza.</string>
+    <string name="question6">The capital of Libya is Benghazi.</string>
+    <string name="question7">Albert Einstein was awarded the Nobel Prize in Physics.</string>
+    <string name="question8">Gone with the Wind takes place in Savannah, Georgia.</string>
+    <string name="question9">Brazil is the only country in the Americas whose official language is Portuguese.</string>
+    <string name="question10">The first name of Kramer in Seinfeld is Cosmo.</string>
+    <string name="question11">A right triangle can never be equilateral.</string>
+    <string name="question12">The Ford Edsel was named after Henry Ford’s father.</string>
+    <string name="question13">“Paprika” is the Hungarian word for “pepper.”</string>
+    <string name="question14">The Bill of Rights contains 10 amendments to the Constitution.</string>
+    <string name="question15">Snow White’s seven dwarfs all worked as lumberjacks.</string>
+    <string name="Correct">your ans is correct </string>
+    <string name="inCorrect">your ans is Incorrect </string>
+
+
+</resources>
