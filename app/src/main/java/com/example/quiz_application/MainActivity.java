@@ -11,7 +11,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private Button true_btn,flase_btn,next_btn;
-    private TextView show_questions;
+    public TextView show_questions;
     private int counter=0;
     private Questions[] questions= new Questions[]
             {
@@ -43,18 +43,19 @@ public class MainActivity extends AppCompatActivity {
         true_btn = findViewById(R.id.true_btn);
         flase_btn = findViewById(R.id.false_btn);
         next_btn = findViewById(R.id.next_btn);
+        show_questions=findViewById(R.id.question_show);
 
         true_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                checkand(true);
             }
         });
 
         flase_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                checkand(false);
             }
         });
 
